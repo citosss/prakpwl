@@ -1,0 +1,1 @@
+<h1>Ini Daftar Kekayaan Gua</h1>
